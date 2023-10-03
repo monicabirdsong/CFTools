@@ -7,8 +7,8 @@
   //const showTime = new Date('October 19, 2023 18:00:00 EST');
   //const hideTime = new Date('October 24, 2023 12:01:00 EST');
 
-  const showTime = new Date('October 19, 2023 11:02:00 EST');
-  const hideTime = new Date('October 24, 2023 11:03:00 EST');
+  const showTime = new Date('October 19, 2023 11:38:00 EST');
+  const hideTime = new Date('October 24, 2023 11:40:00 EST');
 
   // Find the DIV with data-title="Oct2023Promo"
   const octPromoDiv = document.querySelector('div[data-title="Oct2023Promo"]');
