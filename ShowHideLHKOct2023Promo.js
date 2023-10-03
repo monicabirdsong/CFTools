@@ -4,8 +4,11 @@
   const currentTime = new Date(now);
 
   // Define the show and hide moments in Eastern Time
-  const showTime = new Date('October 19, 2023 18:00:00 EST');
-  const hideTime = new Date('October 24, 2023 12:01:00 EST');
+  //const showTime = new Date('October 19, 2023 18:00:00 EST');
+  //const hideTime = new Date('October 24, 2023 12:01:00 EST');
+
+  const showTime = new Date('October 19, 2023 10:20:00 EST');
+  const hideTime = new Date('October 24, 2023 10:21:00 EST');
 
   // Find the DIV with data-title="Oct2023Promo"
   const octPromoDiv = document.querySelector('div[data-title="Oct2023Promo"]');
