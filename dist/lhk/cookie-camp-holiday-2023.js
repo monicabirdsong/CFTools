@@ -1,6 +1,6 @@
   function showHidePromo() {
   // Get today's date and time in Eastern Time
-  const now = new Date().toLocaleString("en-US", { timeZone: "America/New_York" });
+  const now = new Date().toLocaleString("en-US", { timeZone: "America/Chicago" });
   const currentTime = new Date(now);
 
   // Define the show and hide moments in Eastern Time
